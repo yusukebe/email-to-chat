@@ -1,0 +1,7 @@
+name = "email-to-chat"
+main = "src/index.ts"
+compatibility_date = "2024-08-29"
+
+[vars]
+ALLOW_LIST = ['your@e-mail-address']
+SLACK_WEB_HOOK_URL = ""
